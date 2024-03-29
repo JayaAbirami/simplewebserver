@@ -20,7 +20,9 @@ Serving the HTML pages.
 ### Step 5:
 Testing the webserver.
 
-## PROGRAM:```<!DOCTYPE html>
+## PROGRAM:
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -75,7 +77,8 @@ Testing the webserver.
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
       </div>
 </body>
-</html>```
+</html>
+```
 
 
 ## OUTPUT:![Screenshot 1](https://github.com/JayaAbirami/simplewebserver/assets/151487010/efa66cc8-2225-4c53-bba4-4235044fe94d)
